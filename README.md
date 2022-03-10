@@ -1,7 +1,7 @@
 ### Hi there, I am Hasan 👋
 
 <p>
-  <a href="#"> Email </a>
+  <a href = "mailto: hsuchchas@gmail.com"> Email </a>
 </p>
 
 <!--
