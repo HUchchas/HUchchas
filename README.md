@@ -1,4 +1,4 @@
-Hi! I'm Hasan, welcome to my github. 👋 
+Hi! I'm Hasan. Welcome to my github. 👋 
 
 #
 ### Skills
