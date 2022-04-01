@@ -1,13 +1,7 @@
-### Hi there, I am Hasan 👋
+Hi! I'm Hasan, welcome to my github. 👋 
 
-<p>
-  <a href = "mailto: hsuchchas@gmail.com"> Email </a>
-</p>
-
-<p> 
-  Introduction
-</p>
-
+#
+### Skills
 <table>
   
   <tr>
@@ -36,10 +30,10 @@
   
 </table>  
 
-<p>
-  <a href="https://github.com/Ileriayo/markdown-badges#badges"> Badge credit: Ileriayo </a>
-</p>
-
+#
+### Let's connect
+![LinkedIn](https://img.shields.io/badge/-hasan--uchchas-informational?logo-datahttps://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white:)
+![Email](https://img.shields.io/badge/-hsuchchas%40gmail.com-red?logo-data:https://img.shields.io/badge/Gmail-hsuchchas%40gmail.com-red?logo-data:https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!--
 **HUchchas/HUchchas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
