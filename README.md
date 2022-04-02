@@ -1,4 +1,4 @@
-Hi! I'm Hasan, welcome to my github. 👋 
+Hi! I'm Hasan, welcome to my github. 👋
 
 #
 ### Skills
@@ -28,7 +28,11 @@ Hi! I'm Hasan, welcome to my github. 👋
     </td>
   </tr>
   
-</table>  
+</table> 
+
+#
+### Here's a random joke :smile:
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 #
 ### Let's connect
