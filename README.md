@@ -1,6 +1,7 @@
 Hi! 👋
 I'm Hasan, welcome to my github. 
 
+<!--
 #
 ### Skills
 <table>
@@ -40,7 +41,7 @@ I'm Hasan, welcome to my github.
 ![LinkedIn](https://img.shields.io/badge/-hasan--uchchas-informational?logo-datahttps://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white:)
 ![Email](https://img.shields.io/badge/-hsuchchas%40gmail.com-red?logo-data:https://img.shields.io/badge/Gmail-hsuchchas%40gmail.com-red?logo-data:https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<!--
+
 **HUchchas/HUchchas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
