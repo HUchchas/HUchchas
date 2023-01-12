@@ -24,6 +24,49 @@
 </p>
 
 ### Tech I have worked with
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="alt"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="alt"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="alt"/>
+</div>
+
+
+
+
+My technical skills include:
+• Front End: JavaScript, TypeScript, React, Next.js, Tailwind, HTML5, CSS3, jQuery, Redux
+• Back End: Node.js, Express, PostgreSQL, MongoDB, MySQL, MariaDB, RESTful API
+• Testing/Deployment: Jest, Mocha, Chai, Docker, Loader.io, k6, New Relic, AWS, NGINX
+• Developer Tools: Git, npm, Vim, Webpack, Babel, Agile Methodology, Scrum, TDD, Trello, JIRA, Bitbucket, Jenkins, GH Actions
+
+ 
+## Let's connect
+![LinkedIn](https://img.shields.io/badge/hasan--uchchas-blue?style=for-the-badge&logo=linkedIn&logoColor=white)
+![Email](https://img.shields.io/badge/hsuchchas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
+
+## Some much needed programming humor
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes" />
+</div>
+
+
+## Acknowledgement
+Badges: https://github.com/Ileriayo/markdown-badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -60,35 +103,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-
-
- 
-## Let's connect
-![LinkedIn](https://img.shields.io/badge/hasan--uchchas-blue?style=for-the-badge&logo=linkedIn&logoColor=white)
-![Email](https://img.shields.io/badge/hsuchchas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
-
-## Some much needed programming humor
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes" />
-</div>
-
-
-## Acknowledgement
-Badges: https://github.com/Ileriayo/markdown-badges
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="vscode" width="45" height="45"/>
