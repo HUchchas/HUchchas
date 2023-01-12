@@ -37,6 +37,8 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
  
 ## Let's connect
 ![LinkedIn](https://img.shields.io/badge/hasan--uchchas-blue?style=for-the-badge&logo=linkedIn&logoColor=white)
@@ -61,6 +63,13 @@ Badges: https://github.com/Ileriayo/markdown-badges
 
 
 <!--
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="vscode" width="45" height="45"/>
+
+</p>
+
 ##### Countries I have been to
 <img src="https://flagcdn.com/32x24/bd.png"> <img src="https://flagcdn.com/32x24/in.png"> <img src="https://flagcdn.com/32x24/us.png"> <img src="https://flagcdn.com/32x24/ca.png"> <img src="https://flagcdn.com/32x24/es.png"> <img src="https://flagcdn.com/32x24/bb.png"> <img src="https://flagcdn.com/32x24/mx.png">
 #
